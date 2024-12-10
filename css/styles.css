@@ -26,9 +26,14 @@ nav ul {
     margin: 0;
     padding: 0;
     /* Display muestra en linea para los elementos de la lista */
-    display: flex;
+    display: flexbox block;
 }
 
+.papita {margin: 50px;
+        padding: 50px;
+        /*dsgsgg*/ ;
+        background-color: aquamarine;
+         }
 
 nav li {
     /* Margen derecho para los elementos de la lista */
@@ -57,3 +62,12 @@ section {
     background-color: #f7f7f7;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
+
+.uva {margin: 50px;
+      padding: 40px;
+      text-shadow: #333;
+    font-size: smaller;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+margin-right: 30px;}
+
+.yuca{ margin-right: 30px;}
